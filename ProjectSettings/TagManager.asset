@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - GUI_FryEncyclopedia
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Plate
+  - Fry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Encyclopedia
+    uniqueID: 462991033
+    locked: 0
+  - name: Fries
+    uniqueID: 3762358775
+    locked: 0
+  - name: ChopStick
+    uniqueID: 3919107893
+    locked: 0
+  - name: UI
+    uniqueID: 3359877379
+    locked: 0
+  - name: Particle
+    uniqueID: 4159868463
+    locked: 0
+  - name: Effect
+    uniqueID: 3110269879
+    locked: 0

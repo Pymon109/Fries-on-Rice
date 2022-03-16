@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91300d9d0189fe546bfab36c56011166, type: 3}
+  m_Name: FryData_008
+  m_EditorClassIdentifier: 
+  m_iFryID: 8
+  m_sNameID: fry_008
+  m_sCompensationID: com_002
+  m_eCompensation: 3
+  m_iCompensation_StackCount: 50
+  m_iPrice: 0
+  m_spriteFryImage: {fileID: 21300000, guid: 06d73b1e1636aec4ba16973f8a631e46, type: 3}
+  m_spriteFryImage_smile: {fileID: 0}
+  m_spriteFryImage_teasing: {fileID: 0}
+  m_spriteFryImage_fail: {fileID: 21300000, guid: 05fdba8c7a799104db19795202045700, type: 3}
+  m_spriteFryImage_black: {fileID: 0}
+  m_spriteFryImage_dish: {fileID: 0}
+  m_spriteFryImage_dishBlack: {fileID: 0}
+  m_spriteFryCollectionPopUp_kor: {fileID: 21300000, guid: 6e6a866da077aea43b882ef62dde8ce2, type: 3}
+  m_spriteFryCollectionPopUp_eng: {fileID: 21300000, guid: 749dc000e555a894593ba66d013a1755, type: 3}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1070512890622</string>
+  <string name="google_storage_bucket" translatable="false">friesonrice-cc3a4.appspot.com</string>
+  <string name="project_id" translatable="false">friesonrice-cc3a4</string>
+  <string name="google_api_key" translatable="false">AIzaSyCbCvf6Lh6Q3Ng8ZAKArXKaOxqMkCqbTqk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbCvf6Lh6Q3Ng8ZAKArXKaOxqMkCqbTqk</string>
+  <string name="google_app_id" translatable="false">1:1070512890622:android:e1da571576a92dfb977baf</string>
+  <string name="default_web_client_id" translatable="false">1070512890622-jomh19451k1k9amrhjm5pbtp8i31o66s.apps.googleusercontent.com</string>
+</resources>

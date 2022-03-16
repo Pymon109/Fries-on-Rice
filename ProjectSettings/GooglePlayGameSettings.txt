@@ -1,0 +1,9 @@
+lastUpgrade=01014
+proj.pluginVersion=0.10.14
+proj.AppId=1070512890622
+and.BundleId=com.TGZ.FriesonRice
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e1070512890622%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.TGZ.FriesonRice%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Best+record+on+Normal+difficulty--%3e%0d%0a++%3cstring+name%3d%22leaderboard_best_record_on_normal_difficulty%22+translatable%3d%22false%22%3eCgkI_sWp_JMfEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Best+record+on+Hard+difficulty--%3e%0d%0a++%3cstring+name%3d%22leaderboard_best_record_on_hard_difficulty%22+translatable%3d%22false%22%3eCgkI_sWp_JMfEAIQAw%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=1070512890622-ktj1cdk873v88orteiu6msmd63eu3hqt.apps.googleusercontent.com
+android.SetupDone=true

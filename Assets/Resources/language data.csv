@@ -1,0 +1,67 @@
+id,kor,eng
+fry_001,새우,Shrimp
+fry_002,고구마,Sweet Potato
+fry_003,계란,Egg
+fry_004,어니언 링,Onion Ring
+fry_005,깻잎,Perilla Leaf
+fry_006,오징어,Squid
+fry_007,전복,Abalone
+fry_008,김,Sea Weed
+fry_009,꽈리 고추,Chilli Pepper
+fry_010,감자,Potato
+fry_011,단호박,Sweet Pumpkin
+fry_012,가지,Egg Plant
+fry_013,연근,Lotus Root
+fry_014,장어,Eel
+fry_015,닭,Chicken
+fry_016,팽이 버섯,Enoki Mushroom
+fry_017,표고 버섯,Shiitake Mushroom
+fry_018,야채 튀김,Vegetable Tempura
+fry_019,대파,Leek
+fry_020,옥수수,Corn
+price_001,1200 \,0.99$
+price_002,2500 \,2.10$
+price_003,3600 \,3.20$
+price_004,4800 \,3.99$
+price_005,5800 \,4.99$
+ui_001,설정,Option
+ui_002,배경음 켜짐,BGM On
+ui_003,배경음 끄기,BGM Off
+ui_004,효과음 켜기,SFX On
+ui_005,효과음 끄기,SFX Off
+ui_006,뒤로 가기,Back
+ui_007,상점,Store
+ui_008,광고 제거,No AD
+ui_009,도감,Collection
+ui_010,다시 하기,Retry
+ui_011,언어 설정,Language
+ui_012,쉬움,Easy
+ui_013,하드,Hard
+ui_014,랭킹_kor,랭킹_eng
+ui_015,한국어,한국어
+ui_016,English,English
+ui_017,광고 제거 패키지_kor,광고 제거 패키지_eng
+ui_018,광고 제거 + 25000,No AD + 25000
+ui_019,스택_kor,스택_eng
+ui_020,최고 기록_kor,최고 기록_eng
+ui_021,획득 골드_kor,획득 골드_eng
+ui_022,보상 x2_kor,보상 x2_eng
+ui_023,메인_kor,메인_eng
+ui_024,골드 상점,Gold Shop
+ui_025,구매 완료!,get!
+ui_026,네,YES
+ui_027,아니오,NO
+ui_028,골드가 부족합니다!,Not enough Gold!
+ui_029,구입 하시겠습니까?,Really?
+ui_030,배경음,BGM
+ui_031,효과음,SFX
+ui_032,최고 기록,Best
+ui_033,메인으로?,Back to Main?
+ui_034,튀김 준비중,Frying something
+ui_035,종료 하시겠습니까?,Really Quit?
+com_001,광고 제거 패키지 구매,Purchase ad removal package
+com_002,50개 쌓기,Stack 50 pieces
+com_003,100개 쌓기,Stack 100 pieces
+com_004,인앱 결제 1회,One time to pay for the in app
+com_005,200개 쌓기,Stack 200 pieces
+error_001,데이터 없음,No data

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070512890622",
+    "project_id": "friesonrice-cc3a4",
+    "storage_bucket": "friesonrice-cc3a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070512890622:android:e1da571576a92dfb977baf",
+        "android_client_info": {
+          "package_name": "com.TGZ.FriesonRice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070512890622-jomh19451k1k9amrhjm5pbtp8i31o66s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbCvf6Lh6Q3Ng8ZAKArXKaOxqMkCqbTqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070512890622-jomh19451k1k9amrhjm5pbtp8i31o66s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
